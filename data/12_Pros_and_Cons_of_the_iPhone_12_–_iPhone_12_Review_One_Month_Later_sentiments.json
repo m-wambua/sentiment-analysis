@@ -1,0 +1,986 @@
+[
+    {
+        "text": "So in this video, I'm gonna go over twelve pros and cons, six of which are gonna be pros and six of which are gonna be cons.",
+        "start": 90,
+        "end": 5422,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7809476256370544,
+        "speaker": null
+    },
+    {
+        "text": "Hey, guys, Tony here from Tony Tech Bites.",
+        "start": 5556,
+        "end": 7306,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8485677242279053,
+        "speaker": null
+    },
+    {
+        "text": "And this is the iPhone Twelve.",
+        "start": 7338,
+        "end": 8542,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7496781945228577,
+        "speaker": null
+    },
+    {
+        "text": "I've been using it for about a month now, so let's talk about some pros and cons of this device.",
+        "start": 8596,
+        "end": 12970,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6275625228881836,
+        "speaker": null
+    },
+    {
+        "text": "So let us first start off with the Pros.",
+        "start": 13050,
+        "end": 14954,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7599514722824097,
+        "speaker": null
+    },
+    {
+        "text": "The positive sides of the iPhone Twelve.",
+        "start": 15002,
+        "end": 17118,
+        "sentiment": "POSITIVE",
+        "confidence": 0.8349630832672119,
+        "speaker": null
+    },
+    {
+        "text": "The most important part battery life.",
+        "start": 17204,
+        "end": 18894,
+        "sentiment": "POSITIVE",
+        "confidence": 0.8174909353256226,
+        "speaker": null
+    },
+    {
+        "text": "Battery life has significantly improved from previous generation iPhones and I was using the iPhone XS prior to upgrading to the iPhone Twelve, and the battery life is definitely improved for screen on time.",
+        "start": 18932,
+        "end": 28246,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9808363914489746,
+        "speaker": null
+    },
+    {
+        "text": "I get about seven to 8 hours on the iPhone Twelve.",
+        "start": 28268,
+        "end": 30838,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7772362232208252,
+        "speaker": null
+    },
+    {
+        "text": "That consists of social media as well as gaming.",
+        "start": 30924,
+        "end": 33554,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.802503228187561,
+        "speaker": null
+    },
+    {
+        "text": "I make a lot of videos on TikTok every single day.",
+        "start": 33602,
+        "end": 35894,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5842450261116028,
+        "speaker": null
+    },
+    {
+        "text": "If you aren't following me there, make sure to follow me.",
+        "start": 35932,
+        "end": 37718,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7493013143539429,
+        "speaker": null
+    },
+    {
+        "text": "I'm so close to 2000 followers.",
+        "start": 37724,
+        "end": 39650,
+        "sentiment": "POSITIVE",
+        "confidence": 0.7656806707382202,
+        "speaker": null
+    },
+    {
+        "text": "By the time I post this video, I'll probably be there by now anyways.",
+        "start": 39730,
+        "end": 42626,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8151687383651733,
+        "speaker": null
+    },
+    {
+        "text": "I can definitely last a full day of usage with the iPhone Twelve, and I love the peace of mind of not having to charge as much as I did with the iPhone XS.",
+        "start": 42658,
+        "end": 49802,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9859272241592407,
+        "speaker": null
+    },
+    {
+        "text": "With the iPhone XS, I had to charge it pretty much twice a day.",
+        "start": 49906,
+        "end": 52670,
+        "sentiment": "POSITIVE",
+        "confidence": 0.848839521408081,
+        "speaker": null
+    },
+    {
+        "text": "The battery life lasted about four to 5 hours of screen on time, and obviously this is because of natural battery degradation.",
+        "start": 52740,
+        "end": 58762,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5378168225288391,
+        "speaker": null
+    },
+    {
+        "text": "The iPhone XS is two years old and I've been using it pretty much every day since then.",
+        "start": 58826,
+        "end": 63118,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9183656573295593,
+        "speaker": null
+    },
+    {
+        "text": "But after using the iPhone Twelve for about a month, the battery health is still at 100%, which I am pleasantly surprised to see.",
+        "start": 63204,
+        "end": 69426,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9734665155410767,
+        "speaker": null
+    },
+    {
+        "text": "Next up, we got the awesome camera setup.",
+        "start": 69528,
+        "end": 71406,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9699110984802246,
+        "speaker": null
+    },
+    {
+        "text": "For rear cameras, you get a main camera as well as an ultrawide one, and at the front you get a fairly sharp front angle camera.",
+        "start": 71438,
+        "end": 76734,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6512168645858765,
+        "speaker": null
+    },
+    {
+        "text": "I hear that the ultrawide angle camera is significantly sharper than the previous generation.",
+        "start": 76782,
+        "end": 80490,
+        "sentiment": "POSITIVE",
+        "confidence": 0.859865665435791,
+        "speaker": null
+    },
+    {
+        "text": "People on Twitter were comparing the iPhone Twelve and the iPhone Eleven Pro's wide angle cameras.",
+        "start": 80590,
+        "end": 84594,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7077344655990601,
+        "speaker": null
+    },
+    {
+        "text": "And although I don't have experience with the iPhone Eleven Pro, the wideangle camera is pretty sharp and has great dynamic range.",
+        "start": 84642,
+        "end": 90514,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9619956612586975,
+        "speaker": null
+    },
+    {
+        "text": "The main rear camera is also a little bit sharper and a little bit wider than the iPhone XS main camera.",
+        "start": 90562,
+        "end": 95382,
+        "sentiment": "POSITIVE",
+        "confidence": 0.8899106383323669,
+        "speaker": null
+    },
+    {
+        "text": "And that's nice to see because I take photos and videos regularly.",
+        "start": 95446,
+        "end": 98470,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9573028087615967,
+        "speaker": null
+    },
+    {
+        "text": "I also love the bigger six one inch display on the iPhone Twelve compared to the iPhone XS at Eleven Pro, that had a slightly smaller display at five eight inches.",
+        "start": 98550,
+        "end": 107466,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9780619144439697,
+        "speaker": null
+    },
+    {
+        "text": "And the iPhone Twelve's footprint isn't significantly larger than the previous iPhones.",
+        "start": 107578,
+        "end": 111610,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.577502965927124,
+        "speaker": null
+    },
+    {
+        "text": "Putting them side to side, you can tell that the iPhone Twelve is a little bit bigger, but the display is noticeably larger and they accomplish this by slimming down the bezels.",
+        "start": 111690,
+        "end": 119102,
+        "sentiment": "POSITIVE",
+        "confidence": 0.7732598185539246,
+        "speaker": null
+    },
+    {
+        "text": "And I love bigger displays because you get more screen real estate to consume content.",
+        "start": 119166,
+        "end": 123442,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9552834033966064,
+        "speaker": null
+    },
+    {
+        "text": "Speaking of design changes, Apple went back to a boxier design with straight edges.",
+        "start": 123576,
+        "end": 127550,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6862343549728394,
+        "speaker": null
+    },
+    {
+        "text": "This resembles the iPhone four S, five five S, and Se.",
+        "start": 127630,
+        "end": 131814,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6298578977584839,
+        "speaker": null
+    },
+    {
+        "text": "I haven't personally used any of those smartphones as daily drivers, so it isn't really nostalgic to me.",
+        "start": 131932,
+        "end": 136630,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.515741229057312,
+        "speaker": null
+    },
+    {
+        "text": "But if you did like that design, it's present on the iPhone Twelve.",
+        "start": 136700,
+        "end": 139990,
+        "sentiment": "POSITIVE",
+        "confidence": 0.6477809548377991,
+        "speaker": null
+    },
+    {
+        "text": "This boxy design is a little bit easier to grip because it isn't rounded at the edges.",
+        "start": 140060,
+        "end": 143878,
+        "sentiment": "POSITIVE",
+        "confidence": 0.6766030788421631,
+        "speaker": null
+    },
+    {
+        "text": "However, I put a case on anyway, so it doesn't really matter to me.",
+        "start": 143974,
+        "end": 147578,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7282881140708923,
+        "speaker": null
+    },
+    {
+        "text": "I still put this as a pro because some people did miss that design and it's here on the iPhone Twelve.",
+        "start": 147664,
+        "end": 152458,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.478627473115921,
+        "speaker": null
+    },
+    {
+        "text": "Next up, we got the great color choices.",
+        "start": 152544,
+        "end": 154534,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9587909579277039,
+        "speaker": null
+    },
+    {
+        "text": "I am currently using the green color.",
+        "start": 154582,
+        "end": 156142,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7849112153053284,
+        "speaker": null
+    },
+    {
+        "text": "It's like a light mint green, which looks really unique.",
+        "start": 156196,
+        "end": 158730,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9666323065757751,
+        "speaker": null
+    },
+    {
+        "text": "My first choice of color would have been blue, but they didn't have that in stock, so I settled with green and this is starting to grow on me.",
+        "start": 158810,
+        "end": 164574,
+        "sentiment": "POSITIVE",
+        "confidence": 0.8366532325744629,
+        "speaker": null
+    },
+    {
+        "text": "And if you're a fan of a light green color, this is awesome to see.",
+        "start": 164612,
+        "end": 167570,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9877069592475891,
+        "speaker": null
+    },
+    {
+        "text": "Some other color choices that you have with the iPhone Twelve include black, white, blue and product red.",
+        "start": 167640,
+        "end": 172658,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8441985249519348,
+        "speaker": null
+    },
+    {
+        "text": "I love to see a lot of variety with color choices.",
+        "start": 172744,
+        "end": 175102,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9571100473403931,
+        "speaker": null
+    },
+    {
+        "text": "Let's move on to the last pro to round up this list.",
+        "start": 175166,
+        "end": 177570,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7796440720558167,
+        "speaker": null
+    },
+    {
+        "text": "You get four K Sixty video with the front camera as well as both rear cameras, which is utterly amazing because most Android smartphones that have four K Sixty video lack support on one or two cameras, such as the front camera or the rear ultrawide camera.",
+        "start": 177640,
+        "end": 190994,
+        "sentiment": "POSITIVE",
+        "confidence": 0.8591864705085754,
+        "speaker": null
+    },
+    {
+        "text": "So I'm glad that Apple has implemented four k sixty FPS video on all cameras.",
+        "start": 191042,
+        "end": 195510,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9687198400497437,
+        "speaker": null
+    },
+    {
+        "text": "So if you do like taking high resolution videos with a smoother frame rate, this is a great feature to have.",
+        "start": 195590,
+        "end": 200362,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9657582640647888,
+        "speaker": null
+    },
+    {
+        "text": "You also get HDR video on the iPhone Twelve.",
+        "start": 200416,
+        "end": 202362,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5122619867324829,
+        "speaker": null
+    },
+    {
+        "text": "However, it's not currently supported on most editing software, so I just turned that off.",
+        "start": 202416,
+        "end": 206382,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.7657550573348999,
+        "speaker": null
+    },
+    {
+        "text": "It's still a nice feature to have on the iPhone Twelve, and it future proofs your phone for many years to come.",
+        "start": 206436,
+        "end": 211326,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9717358946800232,
+        "speaker": null
+    },
+    {
+        "text": "Now we go on to the cons of the iPhone Twelve.",
+        "start": 211428,
+        "end": 214030,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7012602090835571,
+        "speaker": null
+    },
+    {
+        "text": "There are many of them, well, actually six of them for this list.",
+        "start": 214100,
+        "end": 217330,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7936638593673706,
+        "speaker": null
+    },
+    {
+        "text": "The biggest one there is no included power adapter.",
+        "start": 217400,
+        "end": 220318,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5109666585922241,
+        "speaker": null
+    },
+    {
+        "text": "Apple boasts positive environmental claims by slimming down the box and reducing waste by including less stuff, despite including a cable that most people are not going to find useful.",
+        "start": 220414,
+        "end": 229234,
+        "sentiment": "POSITIVE",
+        "confidence": 0.7097418308258057,
+        "speaker": null
+    },
+    {
+        "text": "It's a lightning to USB C cable, and I am pretty sure most people do not have USBC power adapters or modern iPads or MacBooks that have USBC ports.",
+        "start": 229282,
+        "end": 239122,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.48416367173194885,
+        "speaker": null
+    },
+    {
+        "text": "Apple is also telling consumers to use their previous power adapters that came with previous iPhones.",
+        "start": 239186,
+        "end": 243670,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.497394859790802,
+        "speaker": null
+    },
+    {
+        "text": "But those power adapters had a weaker five watt output and only had a USB type A port, which is not supported with the cable that comes inside the iPhone Twelve box.",
+        "start": 243750,
+        "end": 252810,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.660602331161499,
+        "speaker": null
+    },
+    {
+        "text": "This is where the speech power Arc arc Station pro Charger comes in handy.",
+        "start": 252960,
+        "end": 256826,
+        "sentiment": "POSITIVE",
+        "confidence": 0.7190489768981934,
+        "speaker": null
+    },
+    {
+        "text": "Speech and set this over to me, and I've been using this every single day to charge my iPhone twelve.",
+        "start": 256938,
+        "end": 261214,
+        "sentiment": "POSITIVE",
+        "confidence": 0.4976785480976105,
+        "speaker": null
+    },
+    {
+        "text": "It's a 20 watt Gallium Nitride charger that is a little bit bigger than the size of the five watt Apple iPhone charger.",
+        "start": 261332,
+        "end": 267278,
+        "sentiment": "POSITIVE",
+        "confidence": 0.7312415242195129,
+        "speaker": null
+    },
+    {
+        "text": "You got Retractable Prongs to make this thing even smaller.",
+        "start": 267374,
+        "end": 270142,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.48945409059524536,
+        "speaker": null
+    },
+    {
+        "text": "It's very lightweight and portable.",
+        "start": 270206,
+        "end": 271614,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9150604605674744,
+        "speaker": null
+    },
+    {
+        "text": "You can easily chuck this inside your bag and just forget about it.",
+        "start": 271662,
+        "end": 274402,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.49575701355934143,
+        "speaker": null
+    },
+    {
+        "text": "Speaking advertises that this thing can charge your iPhone up to 50% in 30 minutes, and I actually tested this with my iPhone Twelve.",
+        "start": 274456,
+        "end": 280998,
+        "sentiment": "POSITIVE",
+        "confidence": 0.8748521208763123,
+        "speaker": null
+    },
+    {
+        "text": "I charged it from zero to 50% in about 25 minutes.",
+        "start": 281084,
+        "end": 284086,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7296414971351624,
+        "speaker": null
+    },
+    {
+        "text": "So this does prove that their claim is more or less true.",
+        "start": 284188,
+        "end": 286806,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6761901378631592,
+        "speaker": null
+    },
+    {
+        "text": "Speaking is taking advantage of Gallium Nitride technology to make a smaller and more powerful charger that is a very nice addition to the iPhone Twelve that does not include a power adapter or brick or cube, whatever you want to call it in the box.",
+        "start": 286908,
+        "end": 299386,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9471527338027954,
+        "speaker": null
+    },
+    {
+        "text": "If you want to pick up this power adapter from Speeding or USB C to Lightning cable, I'll link it in the description down below for your convenience.",
+        "start": 299488,
+        "end": 305578,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.815078616142273,
+        "speaker": null
+    },
+    {
+        "text": "This video is not sponsored, but I really do like this charger.",
+        "start": 305674,
+        "end": 308794,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9565256834030151,
+        "speaker": null
+    },
+    {
+        "text": "The next con we got is 64GB of base storage on the iPhone Twelve.",
+        "start": 308922,
+        "end": 312894,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6051770448684692,
+        "speaker": null
+    },
+    {
+        "text": "Personally, this is not a huge deal for me because I have an external hard drive enclosure for my desktop PC with two Terabyte Iron Wolf hard drives from Seagate running in Raid One.",
+        "start": 313012,
+        "end": 322818,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6165983080863953,
+        "speaker": null
+    },
+    {
+        "text": "So for me, it's not really a big deal to have more storage on a mobile device.",
+        "start": 322904,
+        "end": 326238,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6037276387214661,
+        "speaker": null
+    },
+    {
+        "text": "Most of my 4K videos and large games are stored on my PC and I don't really have that many apps or photos to begin with on my iPhone.",
+        "start": 326334,
+        "end": 332978,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.607141375541687,
+        "speaker": null
+    },
+    {
+        "text": "On top of that, most of my photos and videos on my phone are stored on icloud, so I don't really need more storage on my phone.",
+        "start": 333074,
+        "end": 339318,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.4700142741203308,
+        "speaker": null
+    },
+    {
+        "text": "But it would still be nice to have 128GB of base storage on the iPhone Twelve or more considering you're paying around $800 USD for a smartphone in 2020 when most smartphones include more storage for the base model.",
+        "start": 339404,
+        "end": 351530,
+        "sentiment": "POSITIVE",
+        "confidence": 0.49010083079338074,
+        "speaker": null
+    },
+    {
+        "text": "And I know Apple only did this as to not cannibalize sales for the iPhone Twelve pro that comes with 128GB of base storage.",
+        "start": 351600,
+        "end": 358618,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5176010727882385,
+        "speaker": null
+    },
+    {
+        "text": "Next up, we got the same notch design since 2017 with the iPhone Twelve front display.",
+        "start": 358714,
+        "end": 364010,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5399713516235352,
+        "speaker": null
+    },
+    {
+        "text": "Or I mean display.",
+        "start": 364090,
+        "end": 365194,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.741555392742157,
+        "speaker": null
+    },
+    {
+        "text": "There's no back display.",
+        "start": 365242,
+        "end": 366234,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6012609601020813,
+        "speaker": null
+    },
+    {
+        "text": "We've seen it on every single iPhone since 2017.",
+        "start": 366282,
+        "end": 368974,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.653479278087616,
+        "speaker": null
+    },
+    {
+        "text": "I would have liked to see Apple refresh the display, maybe move on to a different design.",
+        "start": 369022,
+        "end": 373186,
+        "sentiment": "POSITIVE",
+        "confidence": 0.5334147214889526,
+        "speaker": null
+    },
+    {
+        "text": "Personally, I am already used to the notch design.",
+        "start": 373288,
+        "end": 375682,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7360411286354065,
+        "speaker": null
+    },
+    {
+        "text": "I've been used to it since it first came out.",
+        "start": 375736,
+        "end": 377986,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6972225904464722,
+        "speaker": null
+    },
+    {
+        "text": "However, I still would have liked to see Apple innovate a little bit more, maybe change up the design of the display because this notch is starting to look bland compared to other smartphones in 2020.",
+        "start": 378088,
+        "end": 388262,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5000674724578857,
+        "speaker": null
+    },
+    {
+        "text": "Speaking of lack of innovation, we have the Lightning port with the iPhone Twelve.",
+        "start": 388396,
+        "end": 392138,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5236310958862305,
+        "speaker": null
+    },
+    {
+        "text": "Why is Apple still sticking with the Lightning port?",
+        "start": 392224,
+        "end": 394698,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.561319887638092,
+        "speaker": null
+    },
+    {
+        "text": "It is such an archaic port when USBC is better in every single way USBC can transfer data, power and display signal through one single cable.",
+        "start": 394784,
+        "end": 403098,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.519198477268219,
+        "speaker": null
+    },
+    {
+        "text": "And Apple clearly recognizes this because they have USBC ports on the newest iPads MacBooks and Macs.",
+        "start": 403194,
+        "end": 408810,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9224181175231934,
+        "speaker": null
+    },
+    {
+        "text": "Why is this not implemented on iPhones?",
+        "start": 408890,
+        "end": 410842,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.5154537558555603,
+        "speaker": null
+    },
+    {
+        "text": "I will never understand.",
+        "start": 410906,
+        "end": 412286,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.8946834802627563,
+        "speaker": null
+    },
+    {
+        "text": "Let's go back to the cameras on the iPhone Twelve.",
+        "start": 412468,
+        "end": 414382,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5530380010604858,
+        "speaker": null
+    },
+    {
+        "text": "I would have liked to see a telephoto camera.",
+        "start": 414436,
+        "end": 416234,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6123364567756653,
+        "speaker": null
+    },
+    {
+        "text": "This would be very useful for students because if you're sitting in the back of your class and you need to take a picture of the board, you need to take a picture of notes.",
+        "start": 416282,
+        "end": 423162,
+        "sentiment": "POSITIVE",
+        "confidence": 0.7714772820472717,
+        "speaker": null
+    },
+    {
+        "text": "It would be nice to have a separate camera that's it's optically cropped in a little bit more so you don't lose as much detail as if you just use the main camera and digitally cropped in.",
+        "start": 423226,
+        "end": 431958,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5425226092338562,
+        "speaker": null
+    },
+    {
+        "text": "If you just use the main camera and zoom in, you're going to lose detail because you're digitally cropping in.",
+        "start": 432044,
+        "end": 436486,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.6257913112640381,
+        "speaker": null
+    },
+    {
+        "text": "So everything is going to look pixelated and your notes aren't going to look as sharp.",
+        "start": 436508,
+        "end": 440322,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.7145701050758362,
+        "speaker": null
+    },
+    {
+        "text": "For me, it's not as useful because I actually don't use the telephoto lens that often.",
+        "start": 440386,
+        "end": 444474,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.7650457620620728,
+        "speaker": null
+    },
+    {
+        "text": "But it would be nice to have nonetheless in case I ever encounter a situation where I do need a telephoto lens.",
+        "start": 444592,
+        "end": 450342,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.628527820110321,
+        "speaker": null
+    },
+    {
+        "text": "And yet again, Apple did this as to not cannibalize on their sales for the iPhone Twelve Pro.",
+        "start": 450406,
+        "end": 455440,
+        "sentiment": "POSITIVE",
+        "confidence": 0.6228488683700562,
+        "speaker": null
+    },
+    {
+        "text": "Still, Apple shouldn't have just included another camera.",
+        "start": 455810,
+        "end": 459194,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.596474826335907,
+        "speaker": null
+    },
+    {
+        "text": "And that brings us to the last con to round out this list the 60 Hz refresh rate on the iPhone Twelve.",
+        "start": 459322,
+        "end": 464510,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7448079586029053,
+        "speaker": null
+    },
+    {
+        "text": "If you've ever used a higher refresh rate display, you know it is significantly smoother.",
+        "start": 464580,
+        "end": 468958,
+        "sentiment": "POSITIVE",
+        "confidence": 0.8320025205612183,
+        "speaker": null
+    },
+    {
+        "text": "You can definitely tell the difference from 60 Hz because if you're browsing the web or you're playing games, it looks a lot smoother.",
+        "start": 469054,
+        "end": 474638,
+        "sentiment": "POSITIVE",
+        "confidence": 0.8012195229530334,
+        "speaker": null
+    },
+    {
+        "text": "There's like no other way to explain it.",
+        "start": 474734,
+        "end": 476466,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.489053875207901,
+        "speaker": null
+    },
+    {
+        "text": "It looks noticeably smoother.",
+        "start": 476488,
+        "end": 478014,
+        "sentiment": "POSITIVE",
+        "confidence": 0.7834676504135132,
+        "speaker": null
+    },
+    {
+        "text": "You also get a competitive edge when you're playing games because the screen refreshes at a faster rate.",
+        "start": 478142,
+        "end": 483014,
+        "sentiment": "POSITIVE",
+        "confidence": 0.8746484518051147,
+        "speaker": null
+    },
+    {
+        "text": "Most smartphones in 2020 do have higher refresh rate displays, such as the Pixel Five with the 90 Hz refresh rate, or OnePlus's smartphones, which have 90 Hz refresh rates and higher.",
+        "start": 483132,
+        "end": 492442,
+        "sentiment": "POSITIVE",
+        "confidence": 0.7136834859848022,
+        "speaker": null
+    },
+    {
+        "text": "Apple even has the 120 Hz Pro Motion display with the iPad Pros.",
+        "start": 492576,
+        "end": 496598,
+        "sentiment": "POSITIVE",
+        "confidence": 0.8562890291213989,
+        "speaker": null
+    },
+    {
+        "text": "So why couldn't they implement this on the iPhones?",
+        "start": 496694,
+        "end": 499206,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6155288219451904,
+        "speaker": null
+    },
+    {
+        "text": "It's just so frustrating.",
+        "start": 499318,
+        "end": 500966,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.9712470173835754,
+        "speaker": null
+    },
+    {
+        "text": "I mean, sure, 5G is a better marketing tactic because it's more well known.",
+        "start": 501078,
+        "end": 505178,
+        "sentiment": "POSITIVE",
+        "confidence": 0.6374517679214478,
+        "speaker": null
+    },
+    {
+        "text": "Adding a higher refresh rate display would SAP the battery life for the iPhone Twelve faster.",
+        "start": 505274,
+        "end": 509610,
+        "sentiment": "POSITIVE",
+        "confidence": 0.6898068189620972,
+        "speaker": null
+    },
+    {
+        "text": "But still, going from a higher refresh rate display and then looking at a 60 is just disappointing.",
+        "start": 509690,
+        "end": 515162,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.9053942561149597,
+        "speaker": null
+    },
+    {
+        "text": "I can't capture any evidence of this with my camera because I'm limited by my frame rates.",
+        "start": 515226,
+        "end": 519166,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.7402998805046082,
+        "speaker": null
+    },
+    {
+        "text": "But let me just tell you, the human eye can discern a difference between 60 or 120 Hz when you're scrolling through social media, you're browsing the web or you're playing games because it does noticeably look smoother.",
+        "start": 519198,
+        "end": 530378,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5376802086830139,
+        "speaker": null
+    },
+    {
+        "text": "All right, so those are Twelve Pros and cons with the iPhone Twelve after one month of usage.",
+        "start": 530494,
+        "end": 534482,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6758770942687988,
+        "speaker": null
+    },
+    {
+        "text": "I hope you enjoyed this video.",
+        "start": 534546,
+        "end": 535942,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9796682000160217,
+        "speaker": null
+    },
+    {
+        "text": "Please, like and subscribe if you enjoyed it.",
+        "start": 535996,
+        "end": 538102,
+        "sentiment": "POSITIVE",
+        "confidence": 0.8827036023139954,
+        "speaker": null
+    },
+    {
+        "text": "And by the way, if you'd like to pick up a screen detector, a case, the iPhone Twelve or the Speakin power adapter, or a Lightning to USB C cable from Speaking, I'll link it all in the description down below.",
+        "start": 538156,
+        "end": 547606,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8399036526679993,
+        "speaker": null
+    },
+    {
+        "text": "There'll be affiliate links or during a tiny bit, a commission from them, but it does not come at an additional cost to you and it helps support my channel.",
+        "start": 547708,
+        "end": 554526,
+        "sentiment": "POSITIVE",
+        "confidence": 0.6919839978218079,
+        "speaker": null
+    },
+    {
+        "text": "Thank you for watching.",
+        "start": 554628,
+        "end": 555390,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9696214199066162,
+        "speaker": null
+    },
+    {
+        "text": "Please like and subscribe if you enjoyed.",
+        "start": 555460,
+        "end": 557210,
+        "sentiment": "POSITIVE",
+        "confidence": 0.8675432801246643,
+        "speaker": null
+    }
+]
