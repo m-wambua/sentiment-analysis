@@ -27,4 +27,4 @@ if __name__ =="__main__":
 
 #### as well as in the  main.py file ####
 
-##### The transcription will be stored in the ~~data~~ folder. ####
+##### The transcription will be stored in the *data* folder. ####
